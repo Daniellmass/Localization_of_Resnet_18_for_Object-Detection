@@ -1,8 +1,8 @@
 
 # Implementation of Basic Object Detection Model using ResNet18
 
-🎥 [Demo video – Single Object Dectection](https://drive.google.com/file/d/1T6aOgR3NPZOHFWKU_2KDoeoEX4RFyfCX/view)  
-🎥 [Demo video – Multi Object Dectection](https://drive.google.com/file/d/1prqulbLfjIk8uoBSdimOPNMfHgkEMz78/view)
+[Demo video – Single Object Dectection](https://drive.google.com/file/d/1T6aOgR3NPZOHFWKU_2KDoeoEX4RFyfCX/view)  
+[Demo video – Multi Object Dectection](https://drive.google.com/file/d/1prqulbLfjIk8uoBSdimOPNMfHgkEMz78/view)
 
 ## 2.1 Architecture Development
 
